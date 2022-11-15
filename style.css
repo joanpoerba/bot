@@ -1,0 +1,14 @@
+*{
+  margin: 0 !important;
+  padding: 0 !important;
+  outline: none;
+}
+body{
+  height: 100vh;
+}
+
+@media (max-width: 578px){
+  input{
+    width: 50vw !important;
+  }
+}
